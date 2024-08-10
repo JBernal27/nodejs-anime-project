@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "titulo": "Naruto",
+    "genero": "Action"
+  },
+  {
+    "id": 2,
+    "titulo": "One Piece",
+    "genero": "Adventure"
+  },
+  {
+    "id": 3,
+    "titulo": "Attack on Titan",
+    "genero": "Action"
+  },
+  {
+    "id": 4,
+    "titulo": "My Hero Academia",
+    "genero": "Superhero"
+  },
+  {
+    "id": 5,
+    "titulo": "Death Note",
+    "genero": "Thriller"
+  },
+  {
+    "id": 6,
+    "titulo": "Fullmetal Alchemist: Brotherhood",
+    "genero": "Fantasy"
+  },
+  {
+    "id": 7,
+    "titulo": "Cowboy Bebop",
+    "genero": "Sci-Fi"
+  },
+  {
+    "id": 8,
+    "titulo": "Demon Slayer",
+    "genero": "Action"
+  },
+  {
+    "id": 9,
+    "titulo": "Steins;Gate",
+    "genero": "Sci-Fi"
+  },
+  {
+    "id": 10,
+    "titulo": "Neon Genesis Evangelion",
+    "genero": "Mecha"
+  }
+]
